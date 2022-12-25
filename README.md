@@ -27,8 +27,3 @@ Killod (Helped with the programming)
 
 Beta Testers:
 
-Liam 
-
-Liwisah
-
-Monolineque
